@@ -1,0 +1,23 @@
+[
+  {
+    "org": "https://www.hacksquad.dev/",
+    "text": "HackSquad",
+    "description":"Top 300 teams will win awesome swag!",
+    "swags": "Tshirt, Hoodie, Mug, Bag",
+    "href" : "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18" 
+  },
+  {
+    "org": "https://medusajs.com/",
+    "text": "Medusa",
+    "description":"All submissions will get: Hackathon Tee + Hackathon Hoodie.",
+    "swags": "Tshirt, Hoodie, Bottle",
+    "href" : "https://medusajs.com/blog/medusa-hackathon-warming-up-for-hacktoberfest"  
+  },
+  {
+    "org": "https://www.digitalocean.com/",
+    "text": "Hacktoberfest",
+    "description":"4 pull requests in any eligible repository.",
+    "swags": "T-shirt, Stickers",
+    "href" : "https://hacktoberfest.com/"  
+  }
+]
