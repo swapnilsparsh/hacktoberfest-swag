@@ -19,5 +19,61 @@
     "description":"4 pull requests in any eligible repository.",
     "swags": "T-shirt, Stickers",
     "href" : "https://hacktoberfest.com/"  
+  },
+  {
+    "org": "https://appwrite.io/",
+    "text": "Appwrite",
+    "description":"4 pull requests in any eligible repository.",
+    "swags": "T-shirt, Stickers, Socks",
+    "href" : "https://hacktoberfest.appwrite.io/"  
+  },
+  {
+    "org": "https://aviyel.com/",
+    "text": "Aviyel",
+    "description":"5 best articles",
+    "swags": "Swag Box",
+    "href" : "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"  
+  },
+  {
+    "org": "https://camunda.com/",
+    "text": "Camunda",
+    "description":"4 pull requests in any eligible repository.",
+    "swags": "T-shirt",
+    "href" : "https://camunda.com/hacktoberfest2022/"  
+  },
+  {
+    "org": "https://www.percona.com/",
+    "text": "Percona",
+    "description":"4 pull requests in any eligible repository.",
+    "swags": "T-shirt, Hat",
+    "href" : "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/"  
+  },
+  {
+    "org": "https://shastraos.co/",
+    "text": "ShastraOS",
+    "description":"4 pull requests in any eligible repository.",
+    "swags": "Swags",
+    "href" : "https://shastraos.co/opensource"  
+  },
+  {
+    "org": "https://mindsdb.com/",
+    "text": "MindsDB",
+    "description":"5 points by making pull requests in any eligible repository.",
+    "swags": "T-shirt",
+    "href" : "https://mindsdb.com/hacktoberfest/"  
+  },
+  {
+    "org": "https://speckle.systems/",
+    "text": "Speckle",
+    "description":"4 pull requests in any eligible repository.",
+    "swags": "T-shirt",
+    "href" : "https://speckle.community/t/hacktoberfest-2022-with-speckle/3641"  
+  },
+  {
+    "org": "https://www.networktocode.com/",
+    "text": "Network to Code",
+    "description":"Most pull requests openend and approved in any eligible repository.",
+    "swags": "T-shirt, Stickers, Mugs",
+    "href" : "https://blog.networktocode.com/post/hackathon/"  
   }
 ]

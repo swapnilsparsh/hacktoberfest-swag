@@ -2,7 +2,8 @@
 import { computed, ref } from "vue";
 import data from "./data.json";
 import Twitter from "./components/Twitter.vue";
-import Github from "./components/Github.vue";
+import GitHub from "./components/GitHub.vue";
+import GitHubSVG from "./components/GitHubSVG.vue"
 
 export default {
   setup() {
@@ -14,7 +15,7 @@ export default {
     });
     return { links, checked };
   },
-  components: { Twitter, Github },
+  components: { Twitter, GitHub, GitHubSVG },
 };
 </script>
 
@@ -29,6 +30,9 @@ export default {
       >
         Hacktoberfest 2022 Swag List
       </h1>
+      <a class="github-corner" href="https://github.com/swapnilsparsh/hacktoberfest-swag" target="_blank" rel="noopener">
+        <GitHubSVG/>
+      </a>
       <!-- toggle -->
       <div class="flex items-center justify-center mx-auto mb-6">
         <h2 class="text-white mr-5">Total: {{ links.length }}</h2>
@@ -92,6 +96,8 @@ export default {
             <a
               href="https://twitter.com/swapnilsparsh"
               class="text-gray-400 hover:text-white"
+              target="_blank"
+              rel="noopener"
             >
               <span class="sr-only">Twitter</span>
               <Twitter />
@@ -100,9 +106,11 @@ export default {
             <a
               href="https://github.com/swapnilsparsh"
               class="text-gray-400 hover:text-white"
+              target="_blank"
+              rel="noopener"
             >
               <span class="sr-only">GitHub</span>
-              <Github />
+              <GitHub />
             </a>
           </div>
           <div class="mt-8 md:mt-0 md:order-1">
@@ -116,3 +124,31 @@ export default {
     </section>
   </div>
 </template>
+
+<style>
+  .github-corner:hover .octo-arm {
+        animation: octocat-wave 560ms ease-in-out;
+      }
+      @keyframes octocat-wave {
+        0%,
+        100% {
+          transform: rotate(0);
+        }
+        20%,
+        60% {
+          transform: rotate(-25deg);
+        }
+        40%,
+        80% {
+          transform: rotate(10deg);
+        }
+      }
+      @media (max-width: 500px) {
+        .github-corner:hover .octo-arm {
+          animation: none;
+        }
+        .github-corner .octo-arm {
+          animation: octocat-wave 560ms ease-in-out;
+        }
+      }
+</style>
