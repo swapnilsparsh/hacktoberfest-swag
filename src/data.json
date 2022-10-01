@@ -96,5 +96,12 @@
     "description":"1 or more pull requests in any eligible repository.",
     "swags": "Mug, T-shirt, Stickers",
     "href" : "https://invertase.io/community/hacktoberfest"  
+  },
+  {
+    "org": "https://www.jenkins.io/",
+    "text": "Jenkins",
+    "description":"Swags to top contributors.",
+    "swags": "T-shirt, Stickers",
+    "href" : "https://www.jenkins.io/events/hacktoberfest/"  
   }
 ]
