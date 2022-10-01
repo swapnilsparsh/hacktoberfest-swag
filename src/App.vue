@@ -3,7 +3,11 @@ import { computed, ref } from "vue";
 import data from "./data.json";
 import Twitter from "./components/Twitter.vue";
 import GitHub from "./components/GitHub.vue";
-import GitHubSVG from "./components/GitHubSVG.vue"
+import GitHubSVG from "./components/GitHubSVG.vue";
+import Tshirt from "./components/Tshirt.vue";
+import Sticker from "./components/Sticker.vue";
+import Bottle from "./components/Bottle.vue";
+import Hoodie from "./components/Hoodie.vue";
 
 export default {
   setup() {
@@ -15,7 +19,7 @@ export default {
     });
     return { links, checked };
   },
-  components: { Twitter, GitHub, GitHubSVG },
+  components: { Twitter, GitHub, GitHubSVG, Tshirt, Sticker, Bottle, Hoodie },
 };
 </script>
   
@@ -48,37 +52,6 @@ export default {
           <span class="ml-3" id="toggleLabel">
             <span class="text-sm font-medium text-white">Sort alphabetically</span>
           </span>
-        </div>
-        <!-- badges -->
-        <div class="flex flex-wrap justify-between mx-auto gap-8">
-          <section>
-            <button
-              class="inline-flex items-center gap-2 px-3 py-1 bg-gray-100 bg-opacity-80 rounded-full active:bg-opacity-100 focus:outline-none focus:ring focus:bg-opacity-100">
-              <span class="text-xs font-medium text-gray-900"> T-Shirt </span>
-              <img alt="Man" src="../src/assets/tshirt.png" class="object-cover w-6 h-6 -mr-2 rounded-full" />
-            </button>
-          </section>
-          <section>
-            <button
-              class="inline-flex items-center gap-2 px-3 py-1 bg-gray-100 bg-opacity-80 rounded-full active:bg-opacity-100 focus:outline-none focus:ring focus:bg-opacity-100">
-              <span class="text-xs font-medium text-gray-900"> Stickers </span>
-              <img alt="Man" src="../src/assets/stickers.png" class="object-cover w-6 h-6 -mr-2 rounded-full" />
-            </button>
-          </section>
-          <section>
-            <button
-              class="inline-flex items-center gap-2 px-3 py-1 bg-gray-100 bg-opacity-80 rounded-full active:bg-opacity-100 focus:outline-none focus:ring focus:bg-opacity-100">
-              <span class="text-xs font-medium text-gray-900"> Bottle </span>
-              <img alt="Man" src="../src/assets/bottle.png" class="object-cover w-6 h-6 -mr-2 rounded-full" />
-            </button>
-          </section>
-          <section>
-            <button
-              class="inline-flex items-center gap-2 px-3 py-1 bg-gray-100 bg-opacity-80 rounded-full active:bg-opacity-100 focus:outline-none focus:ring focus:bg-opacity-100">
-              <span class="text-xs font-medium text-gray-900"> Hoodie </span>
-              <img alt="Man" src="../src/assets/hoodie.png" class="object-cover w-6 h-6 -mr-2 rounded-full" />
-            </button>
-          </section>
         </div>
       </div>
       <!-- list -->
