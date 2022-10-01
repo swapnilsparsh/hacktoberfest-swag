@@ -82,5 +82,12 @@
     "description":"2 pull requests in any eligible repository.",
     "swags": "Stickers",
     "href" : "https://devict-hacktoberfest.herokuapp.com/"  
+  },
+  {
+    "org": "https://flyte.org/",
+    "text": "Flyte",
+    "description":"2, 3 or 3+ pull requests in any eligible repository.",
+    "swags": "Mug, T-shirt, Jacket",
+    "href" : "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"  
   }
 ]
