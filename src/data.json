@@ -75,5 +75,12 @@
     "description":"Most pull requests openend and approved in any eligible repository.",
     "swags": "T-shirt, Stickers, Mugs",
     "href" : "https://blog.networktocode.com/post/hackathon/"  
+  },
+  {
+    "org": "https://www.devict.org/",
+    "text": "devICT",
+    "description":"2 pull requests in any eligible repository.",
+    "swags": "Stickers",
+    "href" : "https://devict-hacktoberfest.herokuapp.com/"  
   }
 ]
