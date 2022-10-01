@@ -89,5 +89,12 @@
     "description":"2, 3 or 3+ pull requests in any eligible repository.",
     "swags": "Mug, T-shirt, Jacket",
     "href" : "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"  
+  },
+  {
+    "org": "https://invertase.io/",
+    "text": "Invertase",
+    "description":"1 or more pull requests in any eligible repository.",
+    "swags": "Mug, T-shirt, Stickers",
+    "href" : "https://invertase.io/community/hacktoberfest"  
   }
 ]
