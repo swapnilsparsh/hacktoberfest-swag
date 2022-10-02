@@ -2,106 +2,113 @@
   {
     "org": "https://www.hacksquad.dev/",
     "text": "HackSquad",
-    "description":"Top 300 teams will win awesome swag!",
+    "description": "Top 300 teams will win awesome swag!",
     "swags": "Tshirt, Hoodie, Mug, Bag",
-    "href" : "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18" 
+    "href": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
   },
   {
     "org": "https://medusajs.com/",
     "text": "Medusa",
-    "description":"All submissions will get: Hackathon Tee + Hackathon Hoodie.",
+    "description": "All submissions will get: Hackathon Tee + Hackathon Hoodie.",
     "swags": "Tshirt, Hoodie, Bottle",
-    "href" : "https://medusajs.com/blog/medusa-hackathon-warming-up-for-hacktoberfest"  
+    "href": "https://medusajs.com/blog/medusa-hackathon-warming-up-for-hacktoberfest"
   },
   {
     "org": "https://www.digitalocean.com/",
     "text": "Hacktoberfest",
-    "description":"4 pull requests in any eligible repository.",
+    "description": "4 pull requests in any eligible repository.",
     "swags": "T-shirt, Stickers",
-    "href" : "https://hacktoberfest.com/"  
+    "href": "https://hacktoberfest.com/"
   },
   {
     "org": "https://appwrite.io/",
     "text": "Appwrite",
-    "description":"4 pull requests in any eligible repository.",
+    "description": "4 pull requests in any eligible repository.",
     "swags": "T-shirt, Stickers, Socks",
-    "href" : "https://hacktoberfest.appwrite.io/"  
+    "href": "https://hacktoberfest.appwrite.io/"
   },
   {
     "org": "https://aviyel.com/",
     "text": "Aviyel",
-    "description":"5 best articles",
+    "description": "5 best articles",
     "swags": "Swag Box",
-    "href" : "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"  
+    "href": "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"
   },
   {
     "org": "https://camunda.com/",
     "text": "Camunda",
-    "description":"4 pull requests in any eligible repository.",
+    "description": "4 pull requests in any eligible repository.",
     "swags": "T-shirt",
-    "href" : "https://camunda.com/hacktoberfest2022/"  
+    "href": "https://camunda.com/hacktoberfest2022/"
   },
   {
     "org": "https://www.percona.com/",
     "text": "Percona",
-    "description":"4 pull requests in any eligible repository.",
+    "description": "4 pull requests in any eligible repository.",
     "swags": "T-shirt, Hat",
-    "href" : "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/"  
+    "href": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/"
   },
   {
     "org": "https://shastraos.co/",
     "text": "ShastraOS",
-    "description":"4 pull requests in any eligible repository.",
+    "description": "4 pull requests in any eligible repository.",
     "swags": "Swags",
-    "href" : "https://shastraos.co/opensource"  
+    "href": "https://shastraos.co/opensource"
   },
   {
     "org": "https://mindsdb.com/",
     "text": "MindsDB",
-    "description":"5 points by making pull requests in any eligible repository.",
+    "description": "5 points by making pull requests in any eligible repository.",
     "swags": "T-shirt",
-    "href" : "https://mindsdb.com/hacktoberfest/"  
+    "href": "https://mindsdb.com/hacktoberfest/"
   },
   {
     "org": "https://speckle.systems/",
     "text": "Speckle",
-    "description":"4 pull requests in any eligible repository.",
+    "description": "4 pull requests in any eligible repository.",
     "swags": "T-shirt",
-    "href" : "https://speckle.community/t/hacktoberfest-2022-with-speckle/3641"  
+    "href": "https://speckle.community/t/hacktoberfest-2022-with-speckle/3641"
   },
   {
     "org": "https://www.networktocode.com/",
     "text": "Network to Code",
-    "description":"Most pull requests openend and approved in any eligible repository.",
+    "description": "Most pull requests openend and approved in any eligible repository.",
     "swags": "T-shirt, Stickers, Mugs",
-    "href" : "https://blog.networktocode.com/post/hackathon/"  
+    "href": "https://blog.networktocode.com/post/hackathon/"
   },
   {
     "org": "https://www.devict.org/",
     "text": "devICT",
-    "description":"2 pull requests in any eligible repository.",
+    "description": "2 pull requests in any eligible repository.",
     "swags": "Stickers",
-    "href" : "https://devict-hacktoberfest.herokuapp.com/"  
+    "href": "https://devict-hacktoberfest.herokuapp.com/"
   },
   {
     "org": "https://flyte.org/",
     "text": "Flyte",
-    "description":"2, 3 or 3+ pull requests in any eligible repository.",
+    "description": "2, 3 or 3+ pull requests in any eligible repository.",
     "swags": "Mug, T-shirt, Jacket",
-    "href" : "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"  
+    "href": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
   },
   {
     "org": "https://invertase.io/",
     "text": "Invertase",
-    "description":"1 or more pull requests in any eligible repository.",
+    "description": "1 or more pull requests in any eligible repository.",
     "swags": "Mug, T-shirt, Stickers",
-    "href" : "https://invertase.io/community/hacktoberfest"  
+    "href": "https://invertase.io/community/hacktoberfest"
   },
   {
     "org": "https://www.jenkins.io/",
     "text": "Jenkins",
-    "description":"Swags to top contributors.",
+    "description": "Swags to top contributors.",
     "swags": "T-shirt, Stickers",
-    "href" : "https://www.jenkins.io/events/hacktoberfest/"  
+    "href": "https://www.jenkins.io/events/hacktoberfest/"
+  },
+  {
+    "org": "https://hasura.io/",
+    "text": "Hasura",
+    "description": "With Hasura, celebrate open-source in style with Hacktoberfest!",
+    "swags": "T-shirt, Stickers",
+    "href": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/"
   }
 ]
