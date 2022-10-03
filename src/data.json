@@ -107,8 +107,15 @@
   {
     "org": "https://hasura.io/",
     "text": "Hasura",
-    "description": "With Hasura, celebrate open-source in style with Hacktoberfest!",
+    "description": "1 or more PRs of issues that mentioned in the website",
     "swags": "T-shirt, Stickers",
     "href": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/"
+  },
+  {
+    "org": "https://webkul.com/",
+    "text": "Bagisto",
+    "description": "4 accepted PRs.",
+    "swags": "Tshirt, Socks, Sticker, Notebook, Pen, Bagisto Elephant",
+    "href": "https://webkul.com/meetups/hacktober-fest-bagisto-2022/"
   }
 ]
