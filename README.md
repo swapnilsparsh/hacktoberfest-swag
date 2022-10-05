@@ -47,6 +47,33 @@ Run the app
 npm run dev
 ```
 
+## Adding a swag to the list
+
+Found a swag opportunity we don't have yet? You can easily add it using the
+following steps:
+
+1. Go to the swag list JSON file:
+   https://github.com/swapnilsparsh/hacktoberfest-swag/blob/master/src/data.json
+
+2. Look for the organization which is giving this swag: For
+   example let's take **HACKTOBERFEST** as an example, we will open the
+   corresponding array and add an object to it as follows:
+
+```
+  {
+    "org": "https://www.digitalocean.com/",
+    "text": "Hacktoberfest",
+    "description": "4 pull requests in any eligible repository.",
+    "swags": "T-shirt, Stickers",
+    "href": "https://hacktoberfest.com/"
+  }
+```
+
+3. Once done you can now raise a Pull Request to the main branch and Vercel
+   will create a preview of your PR and then will be merged accordingly.Never
+   delete or change any existing swag listings from the JSON file. <br>
+
+
 ## License
 
 This project follows the [MIT License](/LICENSE).

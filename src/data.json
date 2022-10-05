@@ -124,5 +124,12 @@
     "description": "During Hacktoberfest, submit an interactive project to https://codedamn.com/projects repository.",
     "swags": "T-shirt, coding stickers",
     "href": "https://codedamn.com/hacktoberfest"
+  },
+  {
+    "org": "https://docker.com",
+    "text": "Docker",
+    "description": "Either Build an extension or PR an Existing extension.",
+    "swags": "Tshirt",
+    "href": "https://docker.github.io/hacktoberfest/"
   }
 ]
