@@ -117,5 +117,12 @@
     "description": "4 accepted PRs.",
     "swags": "Tshirt, Socks, Sticker, Notebook, Pen, Bagisto Elephant",
     "href": "https://webkul.com/meetups/hacktober-fest-bagisto-2022/"
+  },
+  {
+    "org": "https://codedamn.com/",
+    "text": "Codedamn",
+    "description": "During Hacktoberfest, submit an interactive project to https://codedamn.com/projects repository.",
+    "swags": "T-shirt, coding stickers",
+    "href": "https://codedamn.com/hacktoberfest"
   }
 ]
