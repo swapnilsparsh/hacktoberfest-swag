@@ -70,6 +70,13 @@
     "href": "https://shastraos.co/opensource"
   },
   {
+    "org": "https://mattermost.com/",
+    "text": "Mattermost",
+    "description": "Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers.",
+    "swags": "Stickers, T-Shirt, Mug",
+    "href": "https://mattermost.com/blog/hacktoberfest-2022/"
+  },
+  {
     "org": "https://mindsdb.com/",
     "text": "MindsDB",
     "description": "5 points by making pull requests in any eligible repository.",
