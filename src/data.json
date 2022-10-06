@@ -125,6 +125,13 @@
     "swags": "Tshirt",
     "href": "https://docker.github.io/hacktoberfest/"
   },
+    {
+    "org": "https://localstack.cloud/",
+    "text": "Local Stack",
+    "description": "Merge 4 Pull Requests",
+    "swags": "Tshirt",
+    "href": "https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/"
+  },
    {
     "org": "https://www.tooljet.com/",
     "text": "Tooljet",
