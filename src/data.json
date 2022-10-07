@@ -21,6 +21,13 @@
     "href": "https://hacktoberfest.com/"
   },
   {
+    "org": "https://amplication.com/",
+    "text": "Amplication",
+    "description": "Contributors making three or more valid pull requests will get a choice between exclusive coffee mug or a T-Shirt.",
+    "swags": "T-shirt, Mugs, Stickers",
+    "href": "https://github.com/amplication/amplication/issues/4039"
+  },
+  {
     "org": "https://appwrite.io/",
     "text": "Appwrite",
     "description": "4 pull requests in any eligible repository.",
@@ -42,6 +49,13 @@
     "href": "https://camunda.com/hacktoberfest2022/"
   },
   {
+    "org": "https://codedamn.com/",
+    "text": "Codedamn",
+    "description": "In order to participate and win prizes, you have to submit a guided project.",
+    "swags": "T-shirt, Stickers",
+    "href": "https://github.com/codedamn/projects#readme"
+  },
+  {
     "org": "https://www.percona.com/",
     "text": "Percona",
     "description": "4 pull requests in any eligible repository.",
@@ -54,6 +68,13 @@
     "description": "4 pull requests in any eligible repository.",
     "swags": "Swags",
     "href": "https://shastraos.co/opensource"
+  },
+  {
+    "org": "https://mattermost.com/",
+    "text": "Mattermost",
+    "description": "Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers.",
+    "swags": "Stickers, T-Shirt, Mug",
+    "href": "https://mattermost.com/blog/hacktoberfest-2022/"
   },
   {
     "org": "https://mindsdb.com/",
@@ -125,19 +146,25 @@
     "swags": "Tshirt",
     "href": "https://docker.github.io/hacktoberfest/"
   },
-    {
+  {
     "org": "https://localstack.cloud/",
     "text": "Local Stack",
     "description": "Merge 4 Pull Requests",
     "swags": "Tshirt",
     "href": "https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/"
   },
-   {
+  {
+    "org": "https://www.lambdatest.com/",
+    "text": "LambdaTest",
+    "description": "Documentation, coding, supporting others, running a project, or squashing bugs.",
+    "swags": "T-Shirt",
+    "href": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
+  },
+  {
     "org": "https://www.tooljet.com/",
     "text": "Tooljet",
     "description": "Submit PR and Merged.",
     "swags": "ToolJet stickers,t-shirt,hoodie,water bottle",
     "href": "https://blog.tooljet.com/hacktoberfest-2022/"
   }
-  
 ]
