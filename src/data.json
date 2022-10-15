@@ -166,5 +166,12 @@
     "description": "Submit PR and Merged.",
     "swags": "ToolJet stickers,t-shirt,hoodie,water bottle",
     "href": "https://blog.tooljet.com/hacktoberfest-2022/"
+  },
+  {
+    "org": "https://questdb.io",
+    "text": "QuestDB",
+    "description": "Complete one of the tasks on their website and get swag.",
+    "swags": "QuestDB Stickers, Soft Touch Pen, QuestDB T-Shirt",
+    "href": "https://questdb.io/community/"
   }
 ]
