@@ -166,5 +166,12 @@
     "description": "Submit PR and Merged.",
     "swags": "ToolJet stickers,t-shirt,hoodie,water bottle",
     "href": "https://blog.tooljet.com/hacktoberfest-2022/"
+  },
+  {
+    "org": "https://www.meilisearch.com/",
+    "text": "Meilisearch",
+    "description": "Submit one or more PRs to any of the 185 issues from their 37 repos",
+    "swags": "A swag box containing a duffle bag, webcam cover, touchscreen tool shield.",
+    "href": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
   }
 ]
