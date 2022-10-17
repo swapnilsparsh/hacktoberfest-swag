@@ -2,7 +2,7 @@
   {
     "org": "https://www.hacksquad.dev/",
     "text": "HackSquad",
-    "description": "Top 300 teams will win awesome swag!",
+    "description": "Top 60 teams (around ~300 members) will win awesome swag!",
     "swags": "Tshirt, Hoodie, Mug, Bag",
     "href": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
   },
@@ -173,5 +173,11 @@
     "description": "Submit one or more PRs to any of the 185 issues from their 37 repos",
     "swags": "A swag box containing a duffle bag, webcam cover, touchscreen tool shield.",
     "href": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
+  },
+    "org": "https://questdb.io",
+    "text": "QuestDB",
+    "description": "Complete one of the tasks on their website and get swag.",
+    "swags": "QuestDB Stickers, Soft Touch Pen, QuestDB T-Shirt",
+    "href": "https://questdb.io/community/"
   }
 ]
