@@ -168,6 +168,12 @@
     "href": "https://blog.tooljet.com/hacktoberfest-2022/"
   },
   {
+    "org": "https://www.meilisearch.com/",
+    "text": "Meilisearch",
+    "description": "Submit one or more PRs to any of the 185 issues from their 37 repos",
+    "swags": "A swag box containing a duffle bag, webcam cover, touchscreen tool shield.",
+    "href": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
+  },
     "org": "https://questdb.io",
     "text": "QuestDB",
     "description": "Complete one of the tasks on their website and get swag.",
