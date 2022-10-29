@@ -174,10 +174,18 @@
     "swags": "A swag box containing a duffle bag, webcam cover, touchscreen tool shield.",
     "href": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
   },
+  {
     "org": "https://questdb.io",
     "text": "QuestDB",
     "description": "Complete one of the tasks on their website and get swag.",
     "swags": "QuestDB Stickers, Soft Touch Pen, QuestDB T-Shirt",
     "href": "https://questdb.io/community/"
+  },
+  {
+    "org": "https://airbyte.com/",
+    "text": "Airbyte",
+    "description": "Win prize money and swag by contributing to airbyte repos.",
+    "swags": "First place will receive $1,500 and an exclusive Airbyte gold swag pack Second place will receive $1,000 and an exclusive Airbyte silver swag pack Third place will receive $750 and exclusive Airbyte bronze swag pack",
+    "href": "https://airbyte.com/connector-contest"
   }
 ]
