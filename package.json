@@ -9,9 +9,9 @@
   "dependencies": {
     "@vercel/analytics": "^0.1.11",
     "autoprefixer": "^10.4.12",
-    "postcss": "^8.4.16",
+    "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
-    "vue": "^3.2.38"
+    "vue": "^3.2.47"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.0.3",
