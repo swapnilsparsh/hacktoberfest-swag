@@ -3,7 +3,63 @@
     "org": "https://www.digitalocean.com/",
     "text": "Hacktoberfest",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "Tree",
-    "href": "https://hacktoberfest.com/"
+    "swags": "Digital Rewards Kit",
+    "href": "https://hacktoberfest.com/about/#digital-rewards"
+  },
+  {
+    "org": "https://flyte.org/",
+    "text": "Flyte",
+    "description": "Minimum 2 PR or more accpeted/merged in Flyte repo.",
+    "swags": "Flyte t-shirts, stickers, sweatshirts, Amazon gift cards, and water bottles.",
+    "href": "https://flyte.org/blog/flyte-at-hacktoberfest-2023"
+  },
+  {
+    "org": "https://hyperswitch.io/",
+    "text": "Hyperswitch",
+    "description": "Submit a PR to solve one or more issues in the Hyperswitch repo.",
+    "swags": "T-shirt and other goodies.",
+    "href": "https://hyperswitch.io/hacktoberfest"
+  },
+  {
+    "org": "https://www.jenkins.io/",
+    "text": "Jenkins",
+    "description": "Submit a PR to solve one or more issues in different Jenkins repo.",
+    "swags": "Swag to top contributors, depending on the budget and contribution.",
+    "href": "https://www.jenkins.io/events/hacktoberfest/"
+  },
+  {
+    "org": "https://umbraco.com/",
+    "text": "Umbraco",
+    "description": "Submit a PR to solve one or more issues in different Umbraco repo.",
+    "swags": "T-shirt",
+    "href": "https://umbraco.com/blog/umbraco-hacktoberfest-2023/"
+  },
+  {
+    "org": "https://layer5.io/",
+    "text": "Layer5",
+    "description": "Contributing to Layer5 projects.",
+    "swags": "Hacktoberfest Contributor badge.",
+    "href": "https://layer5.io/community/events/hacktoberfest-prep-2023-easing-into-cncf-open-source-projects"
+  },
+  {
+    "org": "https://answer.dev/",
+    "text": "Answer",
+    "description": "Find Bug and Build Plugin.",
+    "swags": "Digital Badge, Bag, Stickers.",
+    "href": "https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023/"
+  },
+  {
+    "org": "https://www.appsmith.com/",
+    "text": "Appsmith",
+    "description": "Create Appsmith app to showcase your creativity.",
+    "swags": "Total 4 winners getting swag package each.",
+    "href": "https://community.appsmith.com/content/announcement/welcome-appsmith-hacktoberfest-2023"
+  },
+  {
+    "org": "https://mindsdb.com/",
+    "text": "MindsDB",
+    "description": "Contribute in Coding or Non Coding Tasks.",
+    "swags": "Laptop, T-shirt, Hoodie, and more.",
+    "href": "https://mindsdb.com/blog/elevate-your-hacktoberfest-experience-mindsdbs-grand-prize-bonanza"
   }
 ]
