@@ -6,7 +6,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-*{
+* {
   font-family: 'Poppins', sans-serif;
 }
 
@@ -25,4 +25,13 @@
   background-color: white;
   border-radius: 0.01rem;
   padding: 0 3px;
+}
+
+/* Custom hover styles */
+.custom-hover:hover {
+  text-shadow: rgba(236, 66, 55, 0.5) 1px 1px 10px, rgba(255, 251, 164, 0.5) -1px -1px 10px;
+  background: linear-gradient(156deg, rgba(239, 237, 239, 0.04) 0%, rgba(0, 0, 0, 0.04) 92.3%);
+  box-shadow: rgba(236, 66, 55, 0.5) 1px 1px 10px 0px, rgba(255, 251, 164, 0.5) -1px -1px 10px 0px;
+  backdrop-filter: blur(5px);
+  color: rgb(239, 237, 239);
 }

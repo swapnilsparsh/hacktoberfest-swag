@@ -28,14 +28,12 @@ export default {
   <div class="bg-void">
     <section class="max-w-6xl p-4 mx-auto">
       <!-- header  -->
-      <section class="flex flex-wrap justify-center gap-4 mb-5">
+      <section class="flex flex-wrap items-center justify-center gap-4 mb-4">
         <img
-          src="../public/image/Symbol.jpg"
-          class="object-cover w-16 h-16 rounded-full"
+          src="/image/Symbol.jpg"
+          class="object-cover w-20 h-20 rounded-full"
         />
-        <h1
-          class="mt-2 text-4xl font-semibold text-center text-white md:text-5xl"
-        >
+        <h1 class="text-4xl font-semibold text-center text-white md:text-5xl">
           Hacktoberfest 2023 Swag List
         </h1>
       </section>
@@ -76,48 +74,48 @@ export default {
       <!-- list -->
       <ul class="gap-4 mx-auto mb-5">
         <li v-for="link in links" :key="link.href" class="w-full h-full p-3">
-          <div class="shadow-lg hover:shadow-xl">
-            <div
-              class="flex flex-col h-full p-8 bg-gray-800 rounded-lg bg-opacity-30 hover:bg-opacity-50"
-            >
-              <div class="flex items-center mb-3">
-                <!-- <h2 class="text-lg font-medium text-white title-font">Shooting Stars</h2> -->
-                <a
-                  class="text-3xl font-semibold text-white"
-                  :href="link.org"
-                  target="_blank"
-                  rel="noopener"
-                  >{{ link.text }}</a
-                >
-              </div>
-              <div class="flex flex-wrap justify-start mb-2">
-                <h2 class="pr-2 text-psybeam">Requirement:</h2>
-                <h3 class="text-white">{{ link.description }}</h3>
-              </div>
-              <div class="flex flex-wrap justify-start mb-2">
-                <h2 class="pr-2 text-psybeam">Swags:</h2>
+          <div
+            class="flex flex-col h-full p-8 border-2 border-dashed rounded-2xl border-gold"
+          >
+            <div class="flex items-center mb-3">
+              <a
+                class="text-3xl font-semibold text-red"
+                :href="link.org"
+                target="_blank"
+                rel="noopener"
+              >
+                [{{ link.text }}]</a
+              >
+            </div>
+            <div class="flex flex-wrap justify-start">
+              <h2 class="pr-2 text-blue">Requirement:</h2>
+              <h3 class="text-white">{{ link.description }}</h3>
+            </div>
+            <div class="flex items-center justify-between">
+              <div class="flex flex-wrap justify-start">
+                <h2 class="pr-2 text-blue">Swags:</h2>
                 <h3 class="text-white">{{ link.swags }}</h3>
               </div>
-              <div class="self-end flex-grow">
-                <a
-                  class="inline-flex items-center mt-3 text-indigo-400 hover:text-blue-400"
-                  :href="link.href"
-                  target="_blank"
-                  rel="noopener"
-                  >Learn More
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    class="w-4 h-4 ml-2"
-                    viewBox="0 0 24 24"
-                  >
-                    <path d="M5 12h14M12 5l7 7-7 7"></path>
-                  </svg>
-                </a>
-              </div>
+
+              <a
+                class="inline-flex items-center p-3 transition duration-300 ease-in-out border text-manga rounded-xl custom-hover"
+                :href="link.href"
+                target="_blank"
+                rel="noopener"
+              >
+                Learn More
+                <svg
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  class="w-4 h-4 ml-2"
+                  viewBox="0 0 24 24"
+                >
+                  <path d="M5 12h14M12 5l7 7-7 7"></path>
+                </svg>
+              </a>
             </div>
           </div>
         </li>
