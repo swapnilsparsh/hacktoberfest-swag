@@ -1,6 +1,6 @@
 <p align="center">
 
-![Banner](https://user-images.githubusercontent.com/69387608/193332141-671a201c-ee6d-45b8-be14-fe04e4178c57.jpg)
+![Banner](https://raw.githubusercontent.com/swapnilsparsh/hacktoberfest-swag/master/public/image/Banner.jpg)
 
 </p>
 
