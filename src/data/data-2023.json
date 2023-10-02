@@ -68,5 +68,12 @@
     "description": "Contribute in Coding or Non Coding Tasks.",
     "swags": "Laptop, T-shirt, Hoodie, and more.",
     "href": "https://mindsdb.com/blog/elevate-your-hacktoberfest-experience-mindsdbs-grand-prize-bonanza"
+  },
+  {
+    "org": "https://turbot.com/",
+    "text": "Turbot",
+    "description": "For no-code, low-code and high-code contributions.",
+    "swags": "Turbot stickers and t-shirts ",
+    "href": "https://turbot.com/blog/2023/10/hacktoberfest-2023"
   }
 ]
