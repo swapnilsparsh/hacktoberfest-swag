@@ -75,5 +75,12 @@
     "description": "For no-code, low-code and high-code contributions.",
     "swags": "Turbot stickers and t-shirts ",
     "href": "https://turbot.com/blog/2023/10/hacktoberfest-2023"
+  },
+  {
+    "org": "https://cloudinary.com/",
+    "text": "Cloudinary",
+    "description": "Submit a PR to solve one or more issues.",
+    "swags": "Cloudinary swag pack, including a limited edition 2023 T-shirt, stickers, and a Cloudinary Unicorn.",
+    "href": "https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks"
   }
 ]
