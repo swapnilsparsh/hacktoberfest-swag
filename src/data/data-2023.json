@@ -82,5 +82,12 @@
     "description": "Submit a PR to solve one or more issues.",
     "swags": "Cloudinary swag pack, including a limited edition 2023 T-shirt, stickers, and a Cloudinary Unicorn.",
     "href": "https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks"
+  },
+  {
+    "org": "https://ballerina.io/",
+    "text": "Ballerina",
+    "description": "Any accepted PR fixing a Hacktoberfest Issue will receive",
+    "swags": "25$ Amazon Voucher, Sticker Pack, T-shirt ",
+    "href": "https://ballerina.io/hacktoberfest/"
   }
 ]
