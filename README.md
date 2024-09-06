@@ -4,7 +4,7 @@
 
 </p>
 
-# Hacktoberfest 2023 Swag List
+# Hacktoberfest 2024 Swag List
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -53,7 +53,7 @@ Found a swag opportunity we don't have yet? You can easily add it using the
 following steps:
 
 1. Go to the swag list JSON file:
-   https://github.com/swapnilsparsh/hacktoberfest-swag/blob/master/src/data/data-2023.json
+   https://github.com/swapnilsparsh/hacktoberfest-swag/blob/master/src/data/data-2024.json
 
 2. Look for the organization which is giving this swag: For
    example let's take **HACKTOBERFEST** as an example, we will open the

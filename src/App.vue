@@ -1,7 +1,6 @@
 <script>
 import { computed, ref } from "vue";
-// import data from "./data.json";
-import data from "./data/data-2023.json";
+import data from "./data/data-2024.json";
 import Twitter from "./components/Twitter.vue";
 import GitHub from "./components/GitHub.vue";
 import GitHubSVG from "./components/GitHubSVG.vue";
@@ -34,7 +33,7 @@ export default {
           class="object-cover w-20 h-20 rounded-full"
         />
         <h1 class="text-4xl font-semibold text-center text-white md:text-5xl">
-          Hacktoberfest 2023 Swag List
+          Hacktoberfest 2024 Swag List
         </h1>
       </section>
       <a
