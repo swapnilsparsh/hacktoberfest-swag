@@ -14,6 +14,9 @@ module.exports = {
         psybeam: "#9092FF",
         red: "#EC4237",
         blue: "#33B6DB",
+        limeGreen: "#51da4c",
+        phthaloGreen: "#183717",
+        alabaster: "#f5f0e1"
       },
     },
   },

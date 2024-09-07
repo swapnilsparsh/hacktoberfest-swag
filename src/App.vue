@@ -24,15 +24,14 @@ export default {
 </script>
 
 <template>
-  <div class="bg-void">
+  <div class="bg-limeGreen">
     <section class="max-w-6xl p-4 mx-auto">
       <!-- header  -->
       <section class="flex flex-wrap items-center justify-center gap-4 mb-4">
-        <img
-          src="/image/Symbol.jpg"
-          class="object-cover w-20 h-20 rounded-full"
-        />
-        <h1 class="text-4xl font-semibold text-center text-white md:text-5xl">
+        <img src="/image/Logo.png" class="object-cover w-20 h-20" />
+        <h1
+          class="text-4xl font-semibold text-center text-phthaloGreen md:text-5xl"
+        >
           Hacktoberfest 2024 Swag List
         </h1>
       </section>
@@ -47,7 +46,7 @@ export default {
       <!-- toggle -->
       <div class="flex flex-col items-center justify-center mx-auto mb-6">
         <div class="flex items-center justify-center mx-auto mb-6">
-          <h2 class="mr-5 text-white">Total: {{ links.length }}</h2>
+          <h2 class="mr-5 text-phthaloGreen">Total: {{ links.length }}</h2>
           <button
             type="button"
             aria-pressed="false"
@@ -64,7 +63,7 @@ export default {
             ></span>
           </button>
           <span class="ml-3" id="toggleLabel">
-            <span class="text-sm font-medium text-white"
+            <span class="text-sm font-medium text-phthaloGreen"
               >Sort alphabetically</span
             >
           </span>
@@ -88,12 +87,12 @@ export default {
             </div>
             <div class="flex flex-wrap justify-start">
               <h2 class="pr-2 text-blue">Requirement:</h2>
-              <h3 class="text-white">{{ link.description }}</h3>
+              <h3 class="text-phthaloGreen">{{ link.description }}</h3>
             </div>
             <div class="flex items-center justify-between">
               <div class="flex flex-wrap justify-start">
                 <h2 class="pr-2 text-blue">Swags:</h2>
-                <h3 class="text-white">{{ link.swags }}</h3>
+                <h3 class="text-phthaloGreen">{{ link.swags }}</h3>
               </div>
 
               <a
@@ -127,7 +126,7 @@ export default {
           <div class="flex justify-center space-x-6 md:order-2">
             <a
               href="https://twitter.com/swapnilsparsh"
-              class="text-gray-400 hover:text-white"
+              class="text-gray-400 hover:text-phthaloGreen"
               target="_blank"
               rel="noopener"
             >
@@ -137,7 +136,7 @@ export default {
 
             <a
               href="https://github.com/swapnilsparsh"
-              class="text-gray-400 hover:text-white"
+              class="text-gray-400 hover:text-phthaloGreen"
               target="_blank"
               rel="noopener"
             >
@@ -146,7 +145,7 @@ export default {
             </a>
           </div>
           <div class="mt-8 md:mt-0 md:order-1">
-            <p class="text-sm text-center text-gray-400">
+            <p class="text-sm text-center text-phthaloGreen">
               &copy; {{ new Date().getFullYear() }} Made with ❤️ by Swapnil
               Srivastava
             </p>
