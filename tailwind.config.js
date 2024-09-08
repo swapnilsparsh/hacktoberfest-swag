@@ -8,15 +8,11 @@ module.exports = {
         sans: ['"Inter var"', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        manga: "#EFEDEF",
-        void: "#0f0913",
-        gold: "#FFFBA4",
-        psybeam: "#9092FF",
-        red: "#EC4237",
-        blue: "#33B6DB",
         limeGreen: "#51da4c",
         phthaloGreen: "#183717",
-        alabaster: "#f5f0e1"
+        alabaster: "#f5f0e1",
+        black: "#1c1c1c",
+        pink: "#ff8bfe"
       },
     },
   },

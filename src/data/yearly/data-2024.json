@@ -1,9 +1,9 @@
 [
   {
     "org": "https://www.digitalocean.com/",
-    "text": "digitalocean",
+    "text": "DigitalOcean",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "Digital Rewards Kit",
+    "swags": ["Digital Rewards Kit"],
     "href": "https://hacktoberfest.com/about/#rewards"
   }
 ]
