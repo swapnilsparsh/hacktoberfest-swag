@@ -5,5 +5,12 @@
     "description": "4 pull requests in any eligible repository.",
     "swags": ["Digital Rewards Kit"],
     "href": "https://hacktoberfest.com/about/#rewards"
+  },
+  {
+    "org": "https://devict.org/",
+    "text": "devICT",
+    "description": "2 pull requests in any eligible repository.",
+    "swags": ["Stickers"],
+    "href": "https://hacktoberfest.devict.org/"
   }
 ]

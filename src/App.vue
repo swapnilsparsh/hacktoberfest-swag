@@ -30,7 +30,7 @@ export default {
       <!-- toggle -->
       <div class="flex flex-col items-center justify-center mx-auto mb-6">
         <div class="flex items-center justify-center mx-auto mb-6">
-          <h2 class="mr-5 text-phthaloGreen">Total: {{ links.length }}</h2>
+          <h2 class="mr-3 text-phthaloGreen">Total: {{ links.length }}</h2>
           <button
             type="button"
             aria-pressed="false"
@@ -73,14 +73,16 @@ export default {
                 {{ link.description }}
               </h3>
             </div>
-            <div class="flex items-center justify-between">
+            <div
+              class="flex flex-col items-start justify-between md:flex-row md:items-center"
+            >
               <div class="flex flex-wrap">
                 <h2 class="py-1 pr-2 font-medium">Swags:</h2>
                 <h3 class="text-phthaloGreen">
                   <span
                     v-for="swag in link.swags"
                     :key="swag"
-                    class="inline-block px-3 py-1 mb-2 mr-2 rounded-full text-alabaster bg-phthaloGreen"
+                    class="inline-block px-3 py-1 my-1 mr-2 rounded-full text-alabaster bg-phthaloGreen"
                   >
                     {{ getEmoji(swag) }} {{ swag }}
                   </span>
@@ -88,7 +90,7 @@ export default {
               </div>
 
               <a
-                class="inline-flex items-center px-6 py-3 transition duration-300 ease-in-out bg-black rounded-full text-alabaster hover:bg-phthaloGreen"
+                class="inline-flex items-center px-6 py-3 mt-4 transition duration-300 ease-in-out bg-black rounded-full md:mt-0 text-alabaster hover:bg-phthaloGreen"
                 :href="link.href"
                 target="_blank"
                 rel="noopener"
