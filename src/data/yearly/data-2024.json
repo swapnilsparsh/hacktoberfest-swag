@@ -19,5 +19,12 @@
     "description": "Top 20 squads will win awesome swag.",
     "swags": ["Hoodie", "Cap", "Pen", "Backpack"],
     "href": "https://devfest.ai/#swag"
+  },
+  {
+    "org": "https://ghw.mlh.io/",
+    "text": "MLH Open Source",
+    "description": "Learn how to start making contributions to Open Source projects! .",
+    "swags": ["Stickers", "Swag"],
+    "href": "https://ghw.mlh.io/events/open-source"
   }
 ]
