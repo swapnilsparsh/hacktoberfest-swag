@@ -26,5 +26,12 @@
     "description": "Learn how to start making contributions to Open Source projects! .",
     "swags": ["Stickers", "Swag"],
     "href": "https://ghw.mlh.io/events/open-source"
+  },
+  {
+    "org": "https://mattermost.com/",
+    "text": "Mattermost",
+    "description": "Puts forward real-world projects to contribute to.",
+    "swags": ["Swag"],
+    "href": "https://mattermost.com/hacktoberfest/"
   }
 ]
