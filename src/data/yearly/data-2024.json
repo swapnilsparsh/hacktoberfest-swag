@@ -33,5 +33,12 @@
     "description": "Puts forward real-world projects to contribute to.",
     "swags": ["Swag"],
     "href": "https://mattermost.com/hacktoberfest/"
+  },
+  {
+    "org": "https://www.instill.tech/",
+    "text": "Instill AI",
+    "description": "Join us at Instill AI's Hacktoberfest 2024 this October",
+    "swags": ["Stickers", "Bottle", "Mug"],
+    "href": "https://www.instill.tech/blog/hacktoberfest-2024-opening"
   }
 ]
