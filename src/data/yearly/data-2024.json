@@ -40,5 +40,12 @@
     "description": "Join us at Instill AI's Hacktoberfest 2024 this October",
     "swags": ["Stickers", "Bottle", "Mug"],
     "href": "https://www.instill.tech/blog/hacktoberfest-2024-opening"
+  },
+  {
+    "org": "https://turbot.com/",
+    "text": "Turbot",
+    "description": "Join Turbot in celebrating Hacktoberfest 2024",
+    "swags": ["Stickers", "TShirt"],
+    "href": "https://turbot.com/blog/2024/09/hacktoberfest-2024"
   }
 ]
