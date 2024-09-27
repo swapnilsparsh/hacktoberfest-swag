@@ -47,5 +47,12 @@
     "description": "Join Turbot in celebrating Hacktoberfest 2024",
     "swags": ["Stickers", "TShirt"],
     "href": "https://turbot.com/blog/2024/09/hacktoberfest-2024"
+  },
+  {
+    "org": "https://auth0.com/",
+    "text": "Auth0",
+    "description": "The first 100 valid* submissions will get the T-shirt.",
+    "swags": ["TShirt"],
+    "href": "https://auth0.com/blog/announcing-authtoberfest-2024"
   }
 ]
