@@ -54,5 +54,12 @@
     "description": "The first 100 valid* submissions will get the T-shirt.",
     "swags": ["TShirt"],
     "href": "https://auth0.com/blog/announcing-authtoberfest-2024"
+  },
+  {
+    "org": "https://mindsdb.com/",
+    "text": "MindsDB",
+    "description": "Win one of three awesome RazerTM laptops and get cool SWAG",
+    "swags": ["Swag", "Laptop"],
+    "href": "https://mindsdb.com/hacktoberfest"
   }
 ]
