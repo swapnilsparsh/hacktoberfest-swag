@@ -61,5 +61,12 @@
     "description": "Win one of three awesome RazerTM laptops and get cool SWAG",
     "swags": ["Swag", "Laptop"],
     "href": "https://mindsdb.com/hacktoberfest"
+  },
+  {
+    "org": "https://hyperswitch.io/",
+    "text": "Hyperswitch",
+    "description": "Swag Pack for every merged PR",
+    "swags": ["TShirt","Hoodie"],
+    "href": "https://hyperswitch.io/hacktoberfest"
   }
 ]
