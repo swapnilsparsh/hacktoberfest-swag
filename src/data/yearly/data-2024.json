@@ -21,6 +21,13 @@
     "href": "https://devfest.ai/#swag"
   },
   {
+    "org": "https://flyte.org/",
+    "text": "Flyte",
+    "description": "Flyte is incentivizing contributions to docs, examples, tutorials, and content",
+    "swags": ["T-shirts", "Water bottles", "Sweatshirts", "Stickers", "Airpods Pro 2"],
+    "href": "https://flyte.org/blog/flyte-at-hacktoberfest-2024"
+  },
+  {
     "org": "https://ghw.mlh.io/",
     "text": "MLH Open Source",
     "description": "Learn how to start making contributions to Open Source projects! .",
