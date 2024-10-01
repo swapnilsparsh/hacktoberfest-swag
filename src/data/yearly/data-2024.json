@@ -28,6 +28,13 @@
     "href": "https://ghw.mlh.io/events/open-source"
   },
   {
+    "org": "https://langfuse.com",
+    "text": "Langfuse",
+    "description": "Contributors with >= 2 accepted PRs will receive a pack of our new Langfuse stickers and get a chance to win a Langfuse t-shirt",
+    "swags": ["Stickers","Swag"],
+    "href": "https://github.com/langfuse/langfuse/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest"
+  },
+  {
     "org": "https://mattermost.com/",
     "text": "Mattermost",
     "description": "Puts forward real-world projects to contribute to.",
