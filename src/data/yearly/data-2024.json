@@ -82,5 +82,19 @@
     "description": "Swag Pack for every merged PR",
     "swags": ["TShirt","Hoodie"],
     "href": "https://hyperswitch.io/hacktoberfest"
+  },
+  {
+    "org": "https://getwren.ai/",
+    "text": "Wren AI",
+    "description": "Swag for pull requests that are successfully merged.",
+    "swags": ["TShirt","Hat"],
+    "href": "https://getwren.ai/wren-ai-hacktoberfest-2024"
+  },
+  {
+    "org": "https://www.docsgpt.cloud/",
+    "text": "DocsGPT",
+    "description": "Top 50 contributors will recieve a special T-shirt",
+    "swags": ["TShirt"],
+    "href": "https://getwren.ai/wren-ai-hacktoberfest-2024"
   }
 ]
