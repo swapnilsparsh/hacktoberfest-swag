@@ -96,5 +96,19 @@
     "description": "Top 50 contributors will recieve a special T-shirt",
     "swags": ["TShirt"],
     "href": "https://getwren.ai/wren-ai-hacktoberfest-2024"
+  },
+  {
+    "org": "https://cloudinary.com/",
+    "text": "Cloudinary",
+    "description": "50 contributors will recieve a swag kit on first come, first served basis.",
+    "swags": ["TShirt","Stickers","Unicorn"],
+    "href": "https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary"
+  },
+  {
+    "org": "https://ballerina.io/",
+    "text": "Ballerina",
+    "description": "Contributors who make the most significant contributions to Ballerina during Hacktoberfest will be rewarded.",
+    "swags": ["TShirt","Bottle","Hoodie","Cap","Mug","Backpack",""],
+    "href": "https://ballerina.io/hacktoberfest/"
   }
 ]
