@@ -38,7 +38,7 @@
     "org": "https://langfuse.com",
     "text": "Langfuse",
     "description": "Contributors with >= 2 accepted PRs will receive a pack of our new Langfuse stickers and get a chance to win a Langfuse t-shirt",
-    "swags": ["Stickers","Swag"],
+    "swags": ["Stickers", "Swag"],
     "href": "https://github.com/langfuse/langfuse/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest"
   },
   {
@@ -80,14 +80,14 @@
     "org": "https://hyperswitch.io/",
     "text": "Hyperswitch",
     "description": "Swag Pack for every merged PR",
-    "swags": ["TShirt","Hoodie"],
+    "swags": ["TShirt", "Hoodie"],
     "href": "https://hyperswitch.io/hacktoberfest"
   },
   {
     "org": "https://getwren.ai/",
     "text": "Wren AI",
     "description": "Swag for pull requests that are successfully merged.",
-    "swags": ["TShirt","Hat"],
+    "swags": ["TShirt", "Hat"],
     "href": "https://getwren.ai/wren-ai-hacktoberfest-2024"
   },
   {
@@ -101,14 +101,42 @@
     "org": "https://cloudinary.com/",
     "text": "Cloudinary",
     "description": "50 contributors will recieve a swag kit on first come, first served basis.",
-    "swags": ["TShirt","Stickers","Unicorn"],
+    "swags": ["TShirt", "Stickers", "Unicorn"],
     "href": "https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary"
   },
   {
     "org": "https://ballerina.io/",
     "text": "Ballerina",
     "description": "Contributors who make the most significant contributions to Ballerina during Hacktoberfest will be rewarded.",
-    "swags": ["TShirt","Bottle","Hoodie","Cap","Mug","Backpack",""],
+    "swags": ["TShirt", "Bottle", "Hoodie", "Cap", "Mug", "Backpack", ""],
     "href": "https://ballerina.io/hacktoberfest/"
+  },
+  {
+    "org": "https://tscircuit.com/",
+    "text": "tscircuit",
+    "description": "5 contributions for hat across 2 projects and 20 for hoodie in 5 different repositories.",
+    "swags": ["Hoodie", "Hat"],
+    "href": "https://blog.tscircuit.com/p/build-electronics-with-typescript"
+  },
+  {
+    "org": "https://crawlee.dev/python/",
+    "text": "Crawlee",
+    "description": "1-2 accepted PRs for Stickers, 2+ accepted PRs for Hoodie",
+    "swags": ["Stickers", "Hoodie"],
+    "href": "https://github.com/apify/crawlee-python/issues/555"
+  },
+  {
+    "org": "https://formbricks.com/",
+    "text": "Formbricks",
+    "description": "Get points which can be considered for swags.",
+    "swags": ["Macbook", "Airpods", "Epomaker"],
+    "href": "https://formbricks.notion.site/Formbricks-Hacktoberfest-Side-Quests-Challenges-798855c705cc4474ba63ceefbe048abf"
+  },
+  {
+    "org": "https://langfuse.com/",
+    "text": "Langfuse",
+    "description": "Contributors with >= 2 accepted PRs will receive stickers and get a chance to win a Langfuse t-shirt",
+    "swags": ["TShirt", "Stickers"],
+    "href": "https://github.com/langfuse/langfuse/issues/3548"
   }
 ]
