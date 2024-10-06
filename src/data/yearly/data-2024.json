@@ -138,5 +138,12 @@
     "description": "Contributors with >= 2 accepted PRs will receive stickers and get a chance to win a Langfuse t-shirt",
     "swags": ["TShirt", "Stickers"],
     "href": "https://github.com/langfuse/langfuse/issues/3548"
+  },
+  {
+    "org": "https://composio.dev/",
+    "text": "Composio",
+    "description": "Contributors will receive stickers and t-shirt",
+    "swags": ["TShirt", "Stickers"],
+    "href": "https://github.com/ComposioHQ/composio/blob/master/HACKTOBER_FEST_2024.md"
   }
 ]
