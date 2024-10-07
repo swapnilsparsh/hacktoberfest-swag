@@ -145,5 +145,12 @@
     "description": "Contributors will receive stickers and t-shirt",
     "swags": ["TShirt", "Stickers"],
     "href": "https://github.com/ComposioHQ/composio/blob/master/HACKTOBER_FEST_2024.md"
+  },
+  {
+    "org": "https://www.esri.com/",
+    "text": "Esri",
+    "description": "Get points for your contribution and podium winners get prize.",
+    "swags": ["Esri Summit Discount"],
+    "href": "https://www.esri.com/arcgis-blog/products/developers/developers/hacktoberfest-2024-contribute-to-open-source-and-win/"
   }
 ]
