@@ -152,5 +152,12 @@
     "description": "Get points for your contribution and podium winners get prize.",
     "swags": ["Esri Summit Discount"],
     "href": "https://www.esri.com/arcgis-blog/products/developers/developers/hacktoberfest-2024-contribute-to-open-source-and-win/"
+  },
+  {
+    "org": "https://gradle.org/",
+    "text": "Gradle",
+    "description": "Swag for everyone who make substantial contributions to Gradle Build Tool and its ecosystem.",
+    "swags": ["Stickers", "Cap"],
+    "href": "https://community.gradle.org/events/hacktoberfest/2024/"
   }
 ]
