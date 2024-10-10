@@ -159,5 +159,12 @@
     "description": "Swag for everyone who make substantial contributions to Gradle Build Tool and its ecosystem.",
     "swags": ["Stickers", "Cap"],
     "href": "https://community.gradle.org/events/hacktoberfest/2024/"
+  },
+  {
+    "org": "https://hiero.org/",
+    "text": "Hiero",
+    "description": "By contributing to Hiero during Hacktoberfest, you can earn swags.",
+    "swags": ["TShirt","Tree"],
+    "href": "https://hiero.org/hacktoberfest/"
   }
 ]
