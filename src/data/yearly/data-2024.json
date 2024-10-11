@@ -166,5 +166,12 @@
     "description": "By contributing to Hiero during Hacktoberfest, you can earn swags.",
     "swags": ["TShirt","Tree"],
     "href": "https://hiero.org/hacktoberfest/"
+  },
+  {
+    "org": "https://www.taipy.io/",
+    "text": "Taipy",
+    "description": "As you solve issues and get your Pull Requests (PR) merged, you earn points that unlock exclusive swag",
+    "swags": ["TShirt","Bottle","Hoodie","Backpack"],
+    "href": "https://assorted-son-815.notion.site/HacktoberFest-2024-with-Taipy-2a5032a3f01642709e88ffaa5d0d169e"
   }
 ]
