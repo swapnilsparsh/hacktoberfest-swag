@@ -173,5 +173,12 @@
     "description": "As you solve issues and get your Pull Requests (PR) merged, you earn points that unlock exclusive swag",
     "swags": ["TShirt","Bottle","Hoodie","Backpack"],
     "href": "https://assorted-son-815.notion.site/HacktoberFest-2024-with-Taipy-2a5032a3f01642709e88ffaa5d0d169e"
+  },
+  {
+    "org": "https://trufflesecurity.com/",
+    "text": "Truffle Security",
+    "description": "Each merged PR will be rewarded with 1 point, Top three point earners will be announced as the winners.",
+    "swags": ["13-inch MacBook Air(M3)","Backpack","Custom TruffleHog Swag"],
+    "href": "https://trufflesecurity.com/blog/hacktoberfest-2024-detector-improvement-competition-at-truffle-security"
   }
 ]
