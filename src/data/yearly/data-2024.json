@@ -180,5 +180,12 @@
     "description": "Each merged PR will be rewarded with 1 point, Top three point earners will be announced as the winners.",
     "swags": ["13-inch MacBook Air(M3)","Backpack","Custom TruffleHog Swag"],
     "href": "https://trufflesecurity.com/blog/hacktoberfest-2024-detector-improvement-competition-at-truffle-security"
+  },
+  {
+    "org": "https://animata.design/",
+    "text": "Animata",
+    "description": "They are offering a $100 reward to one lucky contributor based on a raffle system.",
+    "swags": ["$100 reward"],
+    "href": "https://animata.design/blog/hacktoberfest-2024"
   }
 ]
