@@ -187,5 +187,12 @@
     "description": "They are offering a $100 reward to one lucky contributor based on a raffle system.",
     "swags": ["$100 reward"],
     "href": "https://animata.design/blog/hacktoberfest-2024"
+  },
+  {
+    "org": "https://guac.sh/",
+    "text": "GUAC",
+    "description": "Get swag if any pull request is merged to a GUAC repo",
+    "swags": ["GUAC swag"],
+    "href": "https://guac.sh/blog/2024-09-25-hacktoberfest/"
   }
 ]
