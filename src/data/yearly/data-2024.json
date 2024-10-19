@@ -38,8 +38,8 @@
     "org": "https://langfuse.com",
     "text": "Langfuse",
     "description": "Contributors with >= 2 accepted PRs will receive a pack of our new Langfuse stickers and get a chance to win a Langfuse t-shirt",
-    "swags": ["Stickers", "Swag"],
-    "href": "https://github.com/langfuse/langfuse/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest"
+    "swags": ["TShirt","Stickers", "Swag"],
+    "href": "https://github.com/langfuse/langfuse/issues/3548"
   },
   {
     "org": "https://mattermost.com/",
@@ -132,13 +132,7 @@
     "swags": ["Macbook", "Airpods", "Epomaker"],
     "href": "https://formbricks.notion.site/Formbricks-Hacktoberfest-Side-Quests-Challenges-798855c705cc4474ba63ceefbe048abf"
   },
-  {
-    "org": "https://langfuse.com/",
-    "text": "Langfuse",
-    "description": "Contributors with >= 2 accepted PRs will receive stickers and get a chance to win a Langfuse t-shirt",
-    "swags": ["TShirt", "Stickers"],
-    "href": "https://github.com/langfuse/langfuse/issues/3548"
-  },
+  
   {
     "org": "https://composio.dev/",
     "text": "Composio",
