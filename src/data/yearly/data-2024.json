@@ -95,7 +95,7 @@
     "text": "DocsGPT",
     "description": "Top 50 contributors will recieve a special T-shirt",
     "swags": ["TShirt"],
-    "href": "https://getwren.ai/wren-ai-hacktoberfest-2024"
+    "href": "https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md"
   },
   {
     "org": "https://cloudinary.com/",
