@@ -3,189 +3,189 @@
     "org": "https://www.hacksquad.dev/",
     "text": "HackSquad",
     "description": "Top 60 teams (around ~300 members) will win awesome swag!",
-    "swags": "Tshirt, Hoodie, Mug, Bag",
+    "swags": ["TShirt", "Hoodie", "Mug", "Bag"],
     "href": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18"
   },
   {
     "org": "https://medusajs.com/",
     "text": "Medusa",
     "description": "All submissions will get: Hackathon Tee + Hackathon Hoodie. Pre-registrated teams will also get a tote.",
-    "swags": "Tshirt, Hoodie, Tote",
+    "swags": ["TShirt", "Hoodie", "Tote"],
     "href": "https://medusajs.com/blog/medusa-hackathon-warming-up-for-hacktoberfest"
   },
   {
     "org": "https://www.digitalocean.com/",
     "text": "Hacktoberfest",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "T-shirt, Stickers",
+    "swags": ["TShirt", "Sticker"],
     "href": "https://hacktoberfest.com/"
   },
   {
     "org": "https://amplication.com/",
     "text": "Amplication",
     "description": "Contributors making three or more valid pull requests will get a choice between exclusive coffee mug or a T-Shirt.",
-    "swags": "T-shirt, Mugs, Stickers",
+    "swags": ["TShirt", "Mug", "Sticker"],
     "href": "https://github.com/amplication/amplication/issues/4039"
   },
   {
     "org": "https://appwrite.io/",
     "text": "Appwrite",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "T-shirt, Stickers, Socks",
+    "swags": ["TShirt", "Sticker", "Sock"],
     "href": "https://hacktoberfest.appwrite.io/"
   },
   {
     "org": "https://aviyel.com/",
     "text": "Aviyel",
     "description": "5 best articles",
-    "swags": "Swag Box",
+    "swags": ["SwagBox"],
     "href": "https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel"
   },
   {
     "org": "https://camunda.com/",
     "text": "Camunda",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "T-shirt",
+    "swags": ["TShirt"],
     "href": "https://camunda.com/hacktoberfest2022/"
   },
   {
     "org": "https://codedamn.com/",
     "text": "Codedamn",
     "description": "In order to participate and win prizes, you have to submit a guided project.",
-    "swags": "T-shirt, Stickers",
+    "swags": ["TShirt", "Sticker"],
     "href": "https://github.com/codedamn/projects#readme"
   },
   {
     "org": "https://www.percona.com/",
     "text": "Percona",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "T-shirt, Hat",
+    "swags": ["TShirt", "Hat"],
     "href": "https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/"
   },
   {
     "org": "https://shastraos.co/",
     "text": "ShastraOS",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "Swags",
+    "swags": ["Swag"],
     "href": "https://shastraos.co/opensource"
   },
   {
     "org": "https://mattermost.com/",
     "text": "Mattermost",
     "description": "Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers.",
-    "swags": "Stickers, T-Shirt, Mug",
+    "swags": ["Sticker", "TShirt", "Mug"],
     "href": "https://mattermost.com/blog/hacktoberfest-2022/"
   },
   {
     "org": "https://mindsdb.com/",
     "text": "MindsDB",
     "description": "5 points by making pull requests in any eligible repository.",
-    "swags": "T-shirt",
+    "swags": ["TShirt"],
     "href": "https://mindsdb.com/hacktoberfest/"
   },
   {
     "org": "https://speckle.systems/",
     "text": "Speckle",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "T-shirt",
+    "swags": ["TShirt"],
     "href": "https://speckle.community/t/hacktoberfest-2022-with-speckle/3641"
   },
   {
     "org": "https://www.networktocode.com/",
     "text": "Network to Code",
     "description": "Most pull requests openend and approved in any eligible repository.",
-    "swags": "T-shirt, Stickers, Mugs",
+    "swags": ["TShirt", "Sticker", "Mug"],
     "href": "https://blog.networktocode.com/post/hackathon/"
   },
   {
     "org": "https://www.devict.org/",
     "text": "devICT",
     "description": "2 pull requests in any eligible repository.",
-    "swags": "Stickers",
+    "swags": ["Sticker"],
     "href": "https://devict-hacktoberfest.herokuapp.com/"
   },
   {
     "org": "https://flyte.org/",
     "text": "Flyte",
     "description": "2, 3 or 3+ pull requests in any eligible repository.",
-    "swags": "Mug, T-shirt, Jacket",
+    "swags": ["Mug", "TShirt", "Jacket"],
     "href": "https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022"
   },
   {
     "org": "https://invertase.io/",
     "text": "Invertase",
     "description": "1 or more pull requests in any eligible repository.",
-    "swags": "Mug, T-shirt, Stickers",
+    "swags": ["Mug", "TShirt", "Sticker"],
     "href": "https://invertase.io/community/hacktoberfest"
   },
   {
     "org": "https://www.jenkins.io/",
     "text": "Jenkins",
     "description": "Swags to top contributors.",
-    "swags": "T-shirt, Stickers",
+    "swags": ["TShirt", "Sticker"],
     "href": "https://www.jenkins.io/events/hacktoberfest/"
   },
   {
     "org": "https://hasura.io/",
     "text": "Hasura",
     "description": "1 or more PRs of issues that mentioned in the website",
-    "swags": "T-shirt, Stickers",
+    "swags": ["TShirt", "Sticker"],
     "href": "https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/"
   },
   {
     "org": "https://webkul.com/",
     "text": "Bagisto",
     "description": "4 accepted PRs.",
-    "swags": "Tshirt, Socks, Sticker, Notebook, Pen, Bagisto Elephant",
+    "swags": ["TShirt", "Sock", "Sticker", "Notebook", "Pen", "Toy"],
     "href": "https://webkul.com/meetups/hacktober-fest-bagisto-2022/"
   },
   {
     "org": "https://docker.com",
     "text": "Docker",
     "description": "Either Build an extension or PR an Existing extension.",
-    "swags": "Tshirt",
+    "swags": ["TShirt"],
     "href": "https://docker.github.io/hacktoberfest/"
   },
   {
     "org": "https://localstack.cloud/",
     "text": "Local Stack",
     "description": "Merge 4 Pull Requests",
-    "swags": "Tshirt",
+    "swags": ["TShirt"],
     "href": "https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/"
   },
   {
     "org": "https://www.lambdatest.com/",
     "text": "LambdaTest",
     "description": "Documentation, coding, supporting others, running a project, or squashing bugs.",
-    "swags": "T-Shirt",
+    "swags": ["TShirt"],
     "href": "https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/"
   },
   {
     "org": "https://www.tooljet.com/",
     "text": "Tooljet",
     "description": "Submit PR and Merged.",
-    "swags": "ToolJet stickers,t-shirt,hoodie,water bottle",
+    "swags": ["Sticker", "TShirt", "Hoodie", "Bottle"],
     "href": "https://blog.tooljet.com/hacktoberfest-2022/"
   },
   {
     "org": "https://www.meilisearch.com/",
     "text": "Meilisearch",
     "description": "Submit one or more PRs to any of the 185 issues from their 37 repos",
-    "swags": "A swag box containing a duffle bag, webcam cover, touchscreen tool shield.",
+    "swags": ["SwagBox", "Bag", "WebcamCover", "ScreenTool"],
     "href": "https://blog.meilisearch.com/contribute-hacktoberfest-2022/"
   },
   {
     "org": "https://questdb.io",
     "text": "QuestDB",
     "description": "Complete one of the tasks on their website and get swag.",
-    "swags": "QuestDB Stickers, Soft Touch Pen, QuestDB T-Shirt",
+    "swags": ["Sticker", "Pen", "TShirt"],
     "href": "https://questdb.io/community/"
   },
   {
     "org": "https://airbyte.com/",
     "text": "Airbyte",
     "description": "Win prize money and swag by contributing to airbyte repos.",
-    "swags": "First place will receive $1,500 and an exclusive Airbyte gold swag pack Second place will receive $1,000 and an exclusive Airbyte silver swag pack Third place will receive $750 and exclusive Airbyte bronze swag pack",
+    "swags": ["SwagPack", "GiftCard"],
     "href": "https://airbyte.com/connector-contest"
   }
 ]

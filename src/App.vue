@@ -1,6 +1,8 @@
 <script>
 import { computed, ref } from "vue";
-import data from "./data/yearly/data-2024.json";
+import data2024 from "./data/yearly/data-2024.json";
+import data2023 from "./data/yearly/data-2023.json";
+import data2022 from "./data/yearly/data-2022.json";
 import emojis from "./data/emoji.json";
 import Header from "./components/Header.vue";
 import Footer from "./components/Footer.vue";
@@ -8,15 +10,37 @@ import Footer from "./components/Footer.vue";
 export default {
   setup() {
     const checked = ref(false);
-    const originalData = [...data];
-    const sortedData = data.sort((a, b) => a.text.localeCompare(b.text));
-    const links = computed(() => {
-      return checked.value ? sortedData : originalData;
+    const currentYear = ref(2024);
+    
+    const yearlyData = {
+      2024: data2024,
+      2023: data2023,
+      2022: data2022
+    };
+
+    const currentData = computed(() => {
+      const data = [...yearlyData[currentYear.value]];
+      return checked.value ? 
+        data.sort((a, b) => a.text.localeCompare(b.text)) : 
+        data;
     });
 
     const getEmoji = (swag) => emojis[swag] || "⭐";
 
-    return { links, checked, getEmoji };
+    const years = Object.keys(yearlyData).sort((a, b) => b - a);
+
+    const setYear = (year) => {
+      currentYear.value = parseInt(year);
+    };
+
+    return { 
+      currentData, 
+      checked, 
+      getEmoji, 
+      currentYear,
+      years,
+      setYear
+    };
   },
   components: { Header, Footer },
 };
@@ -25,12 +49,27 @@ export default {
 <template>
   <div class="bg-limeGreen">
     <section class="max-w-6xl p-4 mx-auto">
-      <!-- header  -->
       <Header />
-      <!-- toggle -->
+      
+      <!-- Year Navigation -->
+      <div class="flex justify-center gap-4 mb-6">
+        <button
+          v-for="year in years"
+          :key="year"
+          @click="setYear(year)"
+          class="px-6 py-2 text-lg font-bold transition duration-300 rounded-full"
+          :class="currentYear === parseInt(year) ? 
+            'bg-phthaloGreen text-alabaster' : 
+            'bg-alabaster text-phthaloGreen hover:bg-phthaloGreen hover:text-alabaster'"
+        >
+          {{ year }}
+        </button>
+      </div>
+
+      <!-- Toggle -->
       <div class="flex flex-col items-center justify-center mx-auto mb-6">
         <div class="flex items-center justify-center mx-auto mb-6">
-          <h2 class="mr-3 text-phthaloGreen">Total: {{ links.length }}</h2>
+          <h2 class="mr-3 text-phthaloGreen">Total: {{ currentData.length }}</h2>
           <button
             type="button"
             aria-pressed="false"
@@ -47,15 +86,14 @@ export default {
             ></span>
           </button>
           <span class="ml-3" id="toggleLabel">
-            <span class="text-sm font-medium text-phthaloGreen"
-              >Sort alphabetically</span
-            >
+            <span class="text-sm font-medium text-phthaloGreen">Sort alphabetically</span>
           </span>
         </div>
       </div>
-      <!-- list -->
+
+      <!-- List -->
       <ul class="gap-4 mx-auto mb-5">
-        <li v-for="link in links" :key="link.href" class="w-full h-full p-3">
+        <li v-for="link in currentData" :key="link.href" class="w-full h-full p-3">
           <div class="flex flex-col h-full">
             <div class="flex items-center mb-3">
               <a
@@ -64,8 +102,8 @@ export default {
                 target="_blank"
                 rel="noopener"
               >
-                {{ link.text }}</a
-              >
+                {{ link.text }}
+              </a>
             </div>
             <div class="flex flex-wrap justify-start">
               <h2 class="pr-2 font-medium">Requirement:</h2>
@@ -73,9 +111,7 @@ export default {
                 {{ link.description }}
               </h3>
             </div>
-            <div
-              class="flex flex-col items-start justify-between md:flex-row md:items-center"
-            >
+            <div class="flex flex-col items-start justify-between md:flex-row md:items-center">
               <div class="flex flex-wrap">
                 <h2 class="py-1 pr-2 font-medium">Swags:</h2>
                 <h3 class="text-phthaloGreen">
