@@ -1,93 +1,93 @@
 [
-   {
+  {
     "org": "https://appwrite.io/",
     "text": "Appwrite",
     "description": "Just 1 accepted PR will earn.",
-    "swags": "Appwrite branded hoodies and stickers",
+    "swags": ["Hoodie", "Sticker"],
     "href": "https://x.com/appwrite/status/1708637896859656250?s=20"
   },
   {
-    "org": "https://www.digitalocean.com/",
+    "org": "https://www.digitalocean.com/", 
     "text": "digitalocean",
     "description": "4 pull requests in any eligible repository.",
-    "swags": "Digital Rewards Kit",
+    "swags": ["Digital Rewards Kit"],
     "href": "https://hacktoberfest.com/about/#digital-rewards"
   },
   {
     "org": "https://flyte.org/",
     "text": "Flyte",
     "description": "Minimum 2 PR or more accpeted/merged in Flyte repo.",
-    "swags": "Flyte t-shirts, stickers, sweatshirts, Amazon gift cards, and water bottles.",
+    "swags": ["TShirt", "Sticker", "Sweatshirt", "GiftCard", "Bottle"],
     "href": "https://flyte.org/blog/flyte-at-hacktoberfest-2023"
   },
   {
     "org": "https://hyperswitch.io/",
-    "text": "Hyperswitch",
+    "text": "Hyperswitch", 
     "description": "Submit a PR to solve one or more issues in the Hyperswitch repo.",
-    "swags": "T-shirt and other goodies.",
+    "swags": ["TShirt", "Swag"],
     "href": "https://hyperswitch.io/hacktoberfest"
   },
   {
     "org": "https://www.jenkins.io/",
     "text": "Jenkins",
     "description": "Submit a PR to solve one or more issues in different Jenkins repo.",
-    "swags": "Swag to top contributors, depending on the budget and contribution.",
+    "swags": ["Swag"],
     "href": "https://www.jenkins.io/events/hacktoberfest/"
   },
   {
     "org": "https://umbraco.com/",
     "text": "Umbraco",
-    "description": "Submit a PR to solve one or more issues in different Umbraco repo.",
-    "swags": "T-shirt",
+    "description": "Submit a PR to solve one or more issues in different Umbraco repo.", 
+    "swags": ["TShirt"],
     "href": "https://umbraco.com/blog/umbraco-hacktoberfest-2023/"
   },
   {
     "org": "https://layer5.io/",
     "text": "Layer5",
     "description": "Contributing to Layer5 projects.",
-    "swags": "Hacktoberfest Contributor badge.",
+    "swags": ["Badge"],
     "href": "https://layer5.io/community/events/hacktoberfest-prep-2023-easing-into-cncf-open-source-projects"
   },
   {
     "org": "https://answer.dev/",
     "text": "Answer",
     "description": "Find Bug and Build Plugin.",
-    "swags": "Digital Badge, Bag, Stickers.",
+    "swags": ["Badge", "Bag", "Sticker"],
     "href": "https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023/"
   },
   {
     "org": "https://www.appsmith.com/",
     "text": "Appsmith",
     "description": "Create Appsmith app to showcase your creativity.",
-    "swags": "Total 4 winners getting swag package each.",
+    "swags": ["Swag"],
     "href": "https://community.appsmith.com/content/announcement/welcome-appsmith-hacktoberfest-2023"
   },
   {
     "org": "https://mindsdb.com/",
     "text": "MindsDB",
     "description": "Contribute in Coding or Non Coding Tasks.",
-    "swags": "Laptop, T-shirt, Hoodie, and more.",
+    "swags": ["Laptop", "TShirt", "Hoodie"],
     "href": "https://mindsdb.com/blog/elevate-your-hacktoberfest-experience-mindsdbs-grand-prize-bonanza"
   },
   {
     "org": "https://turbot.com/",
     "text": "Turbot",
     "description": "For no-code, low-code and high-code contributions.",
-    "swags": "Turbot stickers and t-shirts ",
+    "swags": ["Sticker", "TShirt"],
     "href": "https://turbot.com/blog/2023/10/hacktoberfest-2023"
   },
   {
     "org": "https://cloudinary.com/",
     "text": "Cloudinary",
     "description": "Submit a PR to solve one or more issues.",
-    "swags": "Cloudinary swag pack, including a limited edition 2023 T-shirt, stickers, and a Cloudinary Unicorn.",
+    "swags": ["TShirt", "Sticker", "Unicorn"],
     "href": "https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks"
   },
   {
     "org": "https://ballerina.io/",
-    "text": "Ballerina",
+    "text": "Ballerina", 
     "description": "Any accepted PR fixing a Hacktoberfest Issue will receive",
-    "swags": "25$ Amazon Voucher, Sticker Pack, T-shirt ",
+    "swags": ["GiftCard", "Sticker", "TShirt"],
     "href": "https://ballerina.io/hacktoberfest/"
   }
 ]
