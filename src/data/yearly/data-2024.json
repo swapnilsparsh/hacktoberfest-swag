@@ -188,5 +188,12 @@
     "description": "Get swag if any pull request is merged to a GUAC repo",
     "swags": ["GUAC swag"],
     "href": "https://guac.sh/blog/2024-09-25-hacktoberfest/"
+  },
+  {
+    "org": "https://antennapod.org/",
+    "text": "AntennaPod",
+    "description": "Get stickers on submitting two or more PRs that each close an issue.",
+    "swags": ["Stickers"],
+    "href": "https://antennapod.org/blog/2024/10/hacktoberfest-2024"
   }
 ]
