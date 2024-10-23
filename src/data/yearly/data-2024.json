@@ -195,5 +195,12 @@
     "description": "Get stickers on submitting two or more PRs that each close an issue.",
     "swags": ["Stickers"],
     "href": "https://antennapod.org/blog/2024/10/hacktoberfest-2024"
+  },
+  {
+    "org": "https://kairos.io/",
+    "text": "Kairos",
+    "description": "First 10 contributions will be rewarded.",
+    "swags": ["TShirt","Stickers"],
+    "href": "https://kairos.io/blog/2024/10/07/hacktoberfest-2024/"
   }
 ]
