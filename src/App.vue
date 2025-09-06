@@ -23,7 +23,7 @@ export default {
 </script>
 
 <template>
-  <div class="bg-limeGreen">
+  <div class="bg-void text-spaceWhite">
     <section class="max-w-6xl p-4 mx-auto">
       <!-- header  -->
       <Header />

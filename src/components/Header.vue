@@ -4,7 +4,7 @@
     <h1
       class="text-4xl font-semibold text-center text-phthaloGreen md:text-5xl"
     >
-      Hacktoberfest 2024 Swag List
+      Hacktoberfest 2025 Swag List
     </h1>
   </section>
   <a
