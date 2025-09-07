@@ -1,6 +1,6 @@
 <script>
 import { computed, ref } from "vue";
-import data from "./data/yearly/data-2024.json";
+import data from "./data/yearly/data-2025.json";
 import emojis from "./data/emoji.json";
 import Header from "./components/Header.vue";
 import Footer from "./components/Footer.vue";
@@ -36,7 +36,7 @@ export default {
             aria-pressed="false"
             aria-labelledby="toggleLabel"
             class="relative inline-flex flex-shrink-0 h-6 transition-colors duration-200 ease-in-out border-2 border-transparent rounded-full cursor-pointer w-11"
-            :class="checked ? 'bg-pink' : 'bg-gray-300'"
+            :class="checked ? 'bg-melrose' : 'bg-gray-300'"
             @click="checked = !checked"
           >
             <span class="sr-only">Use setting</span>
@@ -59,7 +59,7 @@ export default {
           <div class="flex flex-col h-full">
             <div class="flex items-center mb-3">
               <a
-                class="p-2 text-3xl font-semibold bg-black text-alabaster"
+                class="p-2 text-3xl font-semibold rounded-2xl bg-gradient-to-b from-void/0 to-blueViolet/15 shadow-[inset_0_0_0_1px_theme(colors.eastBay)] text-spaceWhite"
                 :href="link.org"
                 target="_blank"
                 rel="noopener"
@@ -78,11 +78,11 @@ export default {
             >
               <div class="flex flex-wrap">
                 <h2 class="py-1 pr-2 font-medium">Swags:</h2>
-                <h3 class="text-phthaloGreen">
+                <h3 class="font-semibold text-lavendar">
                   <span
                     v-for="swag in link.swags"
                     :key="swag"
-                    class="inline-block px-3 py-1 my-1 mr-2 rounded-full text-alabaster bg-phthaloGreen"
+                    class="inline-block px-3 py-1 mr-2 rounded-full text-alabaster bg-phthaloGreen"
                   >
                     {{ getEmoji(swag) }} {{ swag }}
                   </span>
@@ -90,26 +90,20 @@ export default {
               </div>
 
               <a
-                class="inline-flex items-center px-6 py-3 mt-4 transition duration-300 ease-in-out bg-black rounded-full md:mt-0 text-alabaster hover:bg-phthaloGreen"
+                class="relative inline-flex items-center justify-center px-4 py-3 mt-4 overflow-visible text-sm font-bold tracking-wider uppercase transition-all duration-300 ease-in-out border md:mt-0 text-spaceWhite bg-gradient-to-r from-blueViolet/15 to-melrose/15 border-spaceDust/25 hover:from-blueViolet hover:to-melrose"
                 :href="link.href"
                 target="_blank"
                 rel="noopener"
               >
-                Learn More
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
-                  class="w-4 h-4 ml-2"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M5 12h14M12 5l7 7-7 7"></path>
-                </svg>
+                <span class="relative z-10 tracking-wider">LEARN MORE</span>
+                <span
+                  class="corner-border absolute inset-0 -m-0.5 bg-current opacity-100 transition-all duration-300 ease-in-out"
+                ></span>
               </a>
             </div>
-            <div class="mt-4 mb-2 border-b-2 border-black border-dashed"></div>
+            <div
+              class="mt-4 mb-2 border-b-2 border-dotted border-eastBay"
+            ></div>
           </div>
         </li>
       </ul>
@@ -117,3 +111,43 @@ export default {
     </section>
   </div>
 </template>
+
+<style>
+.corner-border {
+  clip-path: polygon(
+    0px 6px,
+    1px 6px,
+    1px 1px,
+    6px 1px,
+    6px 0px,
+    0px 0px,
+    0px 100%,
+    100% 100%,
+    100% 0px,
+    calc(100% - 6px) 0px,
+    calc(100% - 6px) 1px,
+    calc(100% - 1px) 1px,
+    calc(100% - 1px) 6px,
+    100% 6px,
+    100% calc(100% - 6px),
+    calc(100% - 1px) calc(100% - 6px),
+    calc(100% - 1px) calc(100% - 1px),
+    calc(100% - 6px) calc(100% - 1px),
+    calc(100% - 6px) 100%,
+    6px 100%,
+    6px calc(100% - 1px),
+    1px calc(100% - 1px),
+    1px calc(100% - 6px),
+    0px calc(100% - 6px),
+    0px 6px
+  );
+  transition: clip-path 300ms ease-in-out, opacity 300ms ease-in-out,
+    transform 300ms ease-in-out;
+}
+
+/* Hide corner border on hover with collapsing animation */
+a:hover .corner-border {
+  opacity: 0;
+  transform: scale(0.8);
+}
+</style>

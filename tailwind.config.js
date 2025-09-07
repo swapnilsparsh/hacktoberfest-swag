@@ -8,7 +8,7 @@ module.exports = {
         sans: ['"Inter var"', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        void: "#1C1C3F", // Main
+        void: "#1C1C3F",
         spaceWhite: "#FFFFFF",
         spaceGray: "#F2F4F7",
         spaceDust: "#D0CCE3",

@@ -6,7 +6,7 @@
       <div class="flex justify-center space-x-6 md:order-2">
         <a
           href="https://x.com/swapnilsparsh"
-          class="text-phthaloGreen hover:text-black"
+          class="text-lavendar hover:text-white"
           target="_blank"
           rel="noopener"
         >
@@ -16,7 +16,7 @@
 
         <a
           href="https://github.com/swapnilsparsh"
-          class="text-phthaloGreen hover:text-black"
+          class="text-lavendar hover:text-white"
           target="_blank"
           rel="noopener"
         >
@@ -25,7 +25,7 @@
         </a>
       </div>
       <div class="mt-8 md:mt-0 md:order-1">
-        <p class="text-sm text-center text-phthaloGreen">
+        <p class="text-sm text-center text-lavendar">
           &copy; {{ currentYear }} Made with ❤️ by
 
           <a

@@ -1,9 +1,7 @@
 <template>
   <section class="flex flex-wrap items-center justify-center gap-4 mb-4">
     <img src="/image/Logo.png" class="object-contain w-20 h-20" />
-    <h1
-      class="text-4xl font-semibold text-center text-phthaloGreen md:text-5xl"
-    >
+    <h1 class="text-4xl font-semibold text-center text-spaceWhite md:text-5xl">
       Hacktoberfest 2025 Swag List
     </h1>
   </section>
