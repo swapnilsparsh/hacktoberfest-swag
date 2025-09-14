@@ -5,5 +5,26 @@
     "description": "4 pull requests in any eligible repository.",
     "swags": ["Digital Rewards Kit"],
     "href": "https://hacktoberfest.com/about/#rewards"
+  },
+  {
+    "org": "https://devict.org/",
+    "text": "devICT",
+    "description": "2 pull requests in any eligible repository.",
+    "swags": ["Stickers"],
+    "href": "https://hacktoberfest.devict.org/"
+  },
+  {
+    "org": "https://ghw.mlh.io/",
+    "text": "MLH Open Source",
+    "description": "Learn how to start making contributions to Open Source projects! .",
+    "swags": ["Stickers", "Swag"],
+    "href": "https://ghw.mlh.io/events/open-source"
+  },
+  {
+    "org": "https://interledger.org/",
+    "text": "Interledger",
+    "description": "Tiered rewards system based on number of accepted PRs.",
+    "swags": ["Interledger Swag"],
+    "href": "https://interledger.org/hacktoberfest"
   }
 ]
