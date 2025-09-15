@@ -26,5 +26,12 @@
     "description": "Tiered rewards system based on number of accepted PRs.",
     "swags": ["Interledger Swag"],
     "href": "https://interledger.org/hacktoberfest"
+  },
+  {
+    "org": "https://dotnetfoundation.org/",
+    "text": ".NET Foundation",
+    "description": "1 pull request for first 200 valid signups.",
+    "swags": ["Digital Certificate"],
+    "href": "https://dotnetfoundation.org/community/hacktoberfest"
   }
 ]
