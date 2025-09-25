@@ -33,5 +33,12 @@
     "description": "1 pull request for first 200 valid signups.",
     "swags": ["Digital Certificate"],
     "href": "https://dotnetfoundation.org/community/hacktoberfest"
+  },
+  {
+    "org": "https://wso2.com/",
+    "text": "WSO2",
+    "description": "Get points which can be considered for swags.",
+    "swags": ["Swag", "Voucher"],
+    "href": "https://wso2.com/hacktoberfest/"
   }
 ]
