@@ -3,7 +3,7 @@
     "org": "https://www.digitalocean.com/",
     "text": "DigitalOcean",
     "description": "4 pull requests in any eligible repository.",
-    "swags": ["Digital Rewards Kit"],
+    "swags": ["Digital Rewards Kit", "TShirt"],
     "href": "https://hacktoberfest.com/about/#rewards"
   },
   {
@@ -40,5 +40,19 @@
     "description": "Get points which can be considered for swags.",
     "swags": ["Swag", "Voucher"],
     "href": "https://wso2.com/hacktoberfest/"
+  },
+  {
+    "org": "https://cloudinary.com/",
+    "text": "Cloudinary",
+    "description": "Giving away 30 exclusive Cloudinary swag packs.",
+    "swags": ["TShirt", "Stickers"],
+    "href": "https://cloudinary.com/blog/hacktoberfest-2025"
+  },
+  {
+    "org": "https://www.servicenow.com/",
+    "text": "ServiceNow",
+    "description": "6 pull requests in eligible repository.",
+    "swags": ["TShirt", "Stickers"],
+    "href": "https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849"
   }
 ]
