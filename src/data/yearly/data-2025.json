@@ -54,5 +54,26 @@
     "description": "6 pull requests in eligible repository.",
     "swags": ["TShirt", "Stickers"],
     "href": "https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849"
+  },
+  {
+    "org": "https://dodopayments.com/",
+    "text": "Dodo Payments",
+    "description": "Major contributors will receive limited Dodo “Tracks” swag packs.",
+    "swags": ["TShirt", "Stickers", "Cap"],
+    "href": "https://dodopayments.com/blogs/hacktoberfest-2025-dodo-payments/"
+  },
+  {
+    "org": "https://ballerina.io/",
+    "text": "Ballerina",
+    "description": "Collect credits and exchange them later for swags.",
+    "swags": ["Swag", "Voucher"],
+    "href": "https://ballerina.io/hacktoberfest/"
+  },
+  {
+    "org": "https://questdb.com",
+    "text": "QuestDB",
+    "description": "Anyone who successfully contributes to a QuestDB project.",
+    "swags": ["TShirt", "Stickers"],
+    "href": "https://questdb.com/blog/hacktoberfest-2025-questdb/"
   }
 ]
