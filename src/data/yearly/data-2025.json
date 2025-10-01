@@ -75,5 +75,26 @@
     "description": "Anyone who successfully contributes to a QuestDB project.",
     "swags": ["TShirt", "Stickers"],
     "href": "https://questdb.com/blog/hacktoberfest-2025-questdb/"
+  },
+  {
+    "org": "https://block.github.io/goose/",
+    "text": "goose",
+    "description": "Top 20 Contributors with the most points by the end of the month will win swags.",
+    "swags": ["Hoodie", "Mouse Pad", "TShirt", "Cap", "Bottle"],
+    "href": "https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/"
+  },
+  {
+    "org": "https://appwrite.io/",
+    "text": "Appwrite",
+    "description": "Top 5 projects will receive exclusive Appwrite swags.",
+    "swags": ["Hoodie", "Mouse Pad", "TShirt", "Stickers"],
+    "href": "https://hacktoberfest.appwrite.network/"
+  },
+  {
+    "org": "https://olake.io",
+    "text": "OLake",
+    "description": "Anyone who successfully contributes to a OLake project.",
+    "swags": ["Hoodie", "Notebook", "Pen", "Stickers"],
+    "href": "https://x.com/cappybaradeploy/status/1973027154041729331"
   }
 ]
