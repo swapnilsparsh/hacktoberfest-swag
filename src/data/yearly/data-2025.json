@@ -96,5 +96,12 @@
     "description": "Anyone who successfully contributes to a OLake project.",
     "swags": ["Hoodie", "Notebook", "Pen", "Stickers"],
     "href": "https://x.com/cappybaradeploy/status/1973027154041729331"
+  },
+  {
+    "org": "https://mindsdb.com",
+    "text": "MindsDB",
+    "description": "Top PRs, blog posts, social media engagements gets the prize. ",
+    "swags": ["TShirt", "GitHub Sponsorship", "Macbook Pro"],
+    "href": "https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest"
   }
 ]
