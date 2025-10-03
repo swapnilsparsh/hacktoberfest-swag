@@ -100,9 +100,8 @@
   {
     "org": "https://mindsdb.com",
     "text": "MindsDB",
-    "description": "Top 3 apps with most likes on github",
-    "swags": ["MindsDB T-shirt", "Github Sponsorship", "Macbook Pro"],
+    "description": "Top PRs, blog posts, social media engagements gets the prize. ",
+    "swags": ["TShirt", "GitHub Sponsorship", "Macbook Pro"],
     "href": "https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest"
   }
-    
 ]
