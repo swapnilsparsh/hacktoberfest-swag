@@ -103,5 +103,12 @@
     "description": "Top PRs, blog posts, social media engagements gets the prize. ",
     "swags": ["TShirt", "GitHub Sponsorship", "Macbook Pro"],
     "href": "https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest"
+  },
+  {
+    "org": "https://wso2.com",
+    "text": "WSO2",
+    "description": "Submit PRs, earn points by issue difficulty, and fill the official form post-merge.",
+    "swags": ["TShirt", "Cap", "Bottle", "Voucher", "Certificate"],
+    "href": "https://wso2.com/hacktoberfest"
   }
 ]
