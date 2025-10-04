@@ -103,5 +103,13 @@
     "description": "Top PRs, blog posts, social media engagements gets the prize. ",
     "swags": ["TShirt", "GitHub Sponsorship", "Macbook Pro"],
     "href": "https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest"
-  }
+  },
+{
+  "org": "https://hyperswitch.io/",
+  "text": "Hyperswitch",
+  "description": "Contribute to Hyperswitch by tackling beginner-friendly, tooling, low-code/no-code, or bounty issues. Earn swag for your merged pull requests.",
+  "swags": ["TShirt", "Hoodie"],
+  "href": "https://hyperswitch.io/hacktoberfest"
+}
+
 ]
