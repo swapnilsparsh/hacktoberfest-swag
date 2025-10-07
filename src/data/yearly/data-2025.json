@@ -104,12 +104,23 @@
     "swags": ["TShirt", "GitHub Sponsorship", "Macbook Pro"],
     "href": "https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest"
   },
-{
-  "org": "https://hyperswitch.io/",
-  "text": "Hyperswitch",
-  "description": "Contribute to Hyperswitch by tackling beginner-friendly, tooling, low-code/no-code, or bounty issues. Earn swag for your merged pull requests.",
-  "swags": ["TShirt", "Hoodie"],
-  "href": "https://hyperswitch.io/hacktoberfest"
-}
-
+  {
+    "org": "https://hyperswitch.io/",
+    "text": "Hyperswitch",
+    "description": "Contribute to Hyperswitch by tackling beginner-friendly, tooling, low-code/no-code, or bounty issues. Earn swag for your merged pull requests.",
+    "swags": ["TShirt", "Hoodie"],
+    "href": "https://hyperswitch.io/hacktoberfest"
+  },
+  {
+    "org": "https://requestly.io/",
+    "text": "Requestly",
+    "description": "Earn points for completing various open-source and no-code contribution tasks during Hacktoberfest! Redeem rewards based on your total points earned.",
+    "swags": [
+      "Digital Certificate",
+      "LinkedIn Shout-out",
+      "Amazon Gift Cards",
+      "Swag Kit"
+    ],
+    "href": "https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/"
+  }
 ]
