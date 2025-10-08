@@ -116,10 +116,9 @@
     "text": "Requestly",
     "description": "Earn points for completing various open-source and no-code contribution tasks during Hacktoberfest! Redeem rewards based on your total points earned.",
     "swags": [
-      "Digital Certificate",
-      "LinkedIn Shout-out",
-      "Amazon Gift Cards",
-      "Swag Kit"
+      "Certificate",
+      "Voucher",
+      "Swag"
     ],
     "href": "https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/"
   }
