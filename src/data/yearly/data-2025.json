@@ -128,5 +128,12 @@
     "description": "By Taking Part in Cebu Hackathon from 5th oct to 26th oct OR Contribute to Cebu-based projects.",
     "swags": [ "Currently Unknown"],
     "href": "https://hacktoberfest.jscebu.org/"
+  },
+  {
+    "org": "https://chimoney.io/",
+    "text": "Chimoney",
+    "description": "Follow the folder structure: contributions go into the submissions/ directory, with subfolders for SDKs, articles, etc..",
+    "swags": [ "Digital Badges", "monetary incentives for selected contributions"],
+    "href": "https://chimoney.io/blogs/hacktoberfest-2025-build-contribute-and-learn-with-chimoney/"
   }
 ]
