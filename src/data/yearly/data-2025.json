@@ -121,5 +121,19 @@
       "Swag"
     ],
     "href": "https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/"
+  },
+  {
+    "org": "https://www.jscebu.org/",
+    "text": "Cebu Community",
+    "description": "By Taking Part in Cebu Hackathon from 5th oct to 26th oct OR Contribute to Cebu-based projects.",
+    "swags": [ "Swag"],
+    "href": "https://hacktoberfest.jscebu.org/"
+  },
+  {
+    "org": "https://chimoney.io/",
+    "text": "Chimoney",
+    "description": "Follow the folder structure: contributions go into the submissions/ directory, with subfolders for SDKs, articles, etc..",
+    "swags": [ "Chimoney rewards", "Voucher"],
+    "href": "https://chimoney.io/blogs/hacktoberfest-2025-build-contribute-and-learn-with-chimoney/"
   }
 ]
