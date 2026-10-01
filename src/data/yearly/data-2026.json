@@ -1,0 +1,9 @@
+[
+  {
+    "org": "https://www.docsgpt.cloud/",
+    "text": "DocsGPT",
+    "description": "A T-shirt for every meaningful pull request merged between October 1 and 31, 2026: a real bug fix, a feature or a noticeable docs improvement. Typo and other trivial fixes don't qualify. The claim form will be announced on Discord and in the README.",
+    "swags": ["TShirt"],
+    "href": "https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md"
+  }
+]

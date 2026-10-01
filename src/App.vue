@@ -1,6 +1,6 @@
 <script>
 import { computed, ref } from "vue";
-import data from "./data/yearly/data-2025.json";
+import data from "./data/yearly/data-2026.json";
 import emojis from "./data/emoji.json";
 import Header from "./components/Header.vue";
 import Footer from "./components/Footer.vue";
